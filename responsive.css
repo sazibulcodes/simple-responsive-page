@@ -1,0 +1,27 @@
+
+#responsive{
+    display: flex;
+
+}
+#responsive h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.left{
+    background-color: aqua;
+    width: 450px;
+    height: 550px;
+    margin: 20px;
+    border-radius: 10px; 
+
+}
+
+.right{
+    background-color: violet;
+        height: 550px;
+        width: 1000px;
+        border-radius: 10px;
+        margin: 20px;
+}
